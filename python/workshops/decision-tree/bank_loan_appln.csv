@@ -1,0 +1,16 @@
+﻿ID,Age,Has_job,Own_house,Credit_rating,Outcome
+1,young,FALSE,FALSE,fair,Reject
+2,young,FALSE,FALSE,good,Reject
+3,young,TRUE,FALSE,good,Approve
+4,young,TRUE,TRUE,fair,Approve
+5,young,FALSE,FALSE,fair,Reject
+6,middle,FALSE,FALSE,fair,Reject
+7,middle,FALSE,FALSE,good,Reject
+8,middle,TRUE,TRUE,good,Approve
+9,middle,FALSE,TRUE,excellent,Approve
+10,middle,FALSE,TRUE,excellent,Approve
+11,old,FALSE,TRUE,excellent,Approve
+12,old,FALSE,TRUE,good,Approve
+13,old,TRUE,FALSE,good,Approve
+14,old,TRUE,FALSE,excellent,Approve
+15,old,FALSE,FALSE,fair,Reject
